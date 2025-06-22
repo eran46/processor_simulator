@@ -1,0 +1,7 @@
+﻿  main.c
+  instruction.c
+  label.c
+  utils.c
+C:\Users\eranl\OneDrive\Desktop\project1\asm\label.c(23,12): warning C4013: 'isspace' undefined; assuming extern returning int
+  Generating Code...
+  Proj.vcxproj -> C:\Users\eranl\OneDrive\Desktop\project1\asm\x64\Debug\asm.exe
