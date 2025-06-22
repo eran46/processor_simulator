@@ -18,3 +18,6 @@ writing to monitor
 
 hardware interfaces are simulated via an array of hardware registers controlling inputs, outputs and status
 the simulator also parallely outputs each hardware change log to a .txt log file for debugging (hwregtrace.txt, cycles.txt, leds.txt, etc.)
+
+the code is written in visual studio environment, for Linux OS.
+ISA in Hebrew and project desctiption is added bellow as PDFs
